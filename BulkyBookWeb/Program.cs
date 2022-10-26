@@ -1,4 +1,4 @@
-using BulkyBookWeb.Controllers.Data;
+using BulkyBook.Controllers.Data;
 using Microsoft.Build.Execution;
 using Microsoft.EntityFrameworkCore;
 
