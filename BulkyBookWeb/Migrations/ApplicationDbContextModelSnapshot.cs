@@ -60,7 +60,7 @@ namespace BulkyBookWeb.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("CoverTypes");
+                    b.ToTable("CoverType");
                 });
 #pragma warning restore 612, 618
         }
